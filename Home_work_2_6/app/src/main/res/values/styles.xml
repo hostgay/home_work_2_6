@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Home_work_2_6" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowSoftInputMode">adjustResize</item>
+
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+</resources>
